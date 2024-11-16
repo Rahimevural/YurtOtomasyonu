@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmNotEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrenciRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPersonel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmYoneticiDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBolumler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGelirİstatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGiderGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmGiderListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOdemeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
